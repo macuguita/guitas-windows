@@ -1,0 +1,8 @@
+{
+  "parent": "windows:block/window_template",
+  "textures": {
+    "front": "windows:block/window_front",
+    "particle": "windows:block/window_front",
+    "side": "windows:block/window_side"
+  }
+}

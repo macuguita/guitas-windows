@@ -1,0 +1,6 @@
+{
+  "parent": "windows:block/transparent_block_template",
+  "textures": {
+    "all": "windows:block/aquarium_glass"
+  }
+}
